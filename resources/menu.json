@@ -1,0 +1,28 @@
+{
+	"data": [{
+		"menuId": "Example",
+		"name": "Example"
+	},{
+		"menuId": "Menu1",
+		"name": "Menu1"
+	},{
+		"menuId": "Menu2",
+		"name": "Menu2"
+	},{
+		"menuId": "Dropdown",
+		"name": "Dropdown",
+		"child": [{
+			"menuId": "Dropdown1",
+			"name": "Dropdown1"
+		},{
+			"menuId": "Dropdown2",
+			"name": "Dropdown2"
+		},{
+			"menuId": "Dropdown3",
+			"name": "Dropdown3"
+		},{
+			"menuId": "Dropdown4",
+			"name": "Dropdown4"
+		}]
+	}] 
+}

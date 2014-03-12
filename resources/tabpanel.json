@@ -1,0 +1,17 @@
+[
+	{
+		"text": "Button",
+		"menuId": "example.Button",
+		"leaf": true
+	},
+	{
+		"text": "Form",
+		"menuId": "example.Form",
+		"leaf": true
+	},
+	{
+		"text": "Window",
+		"menuId": "example.Window",
+		"leaf": true
+	}
+]

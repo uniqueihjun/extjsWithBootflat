@@ -1,0 +1,13 @@
+.menu-item-hover {background-color:#2986b9}
+.nav-parent {padding:5px 15px;margin:0px}
+
+
+.table-layout-label {width:120px;text-align:center;font-weight:normal;color:#ffffff;background:#4297d5;}
+
+.x-table-form-item {margin-bottom: 0px;}
+.x-table-layout {width:100%;border:1px solid #659cc4;border-bottom:0px;table-layout:fixed;}
+.x-table-layout-cell {border-bottom:1px solid #1b71a0;padding:4px 10px 4px 10px;}
+
+.icon-large {background:url('../icons/add.gif') no-repeat}
+.icon-medium {background:url('../icons/add24.gif') no-repeat}
+.icon-small {background:url('../icons/add16.gif') no-repeat}
